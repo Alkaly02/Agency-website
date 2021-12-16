@@ -22,7 +22,11 @@
 		durationMax: null,
 		durationMin: null,
 		clip: true,
+<<<<<<< HEAD
 		offset: 300,
+=======
+		offset: 45,
+>>>>>>> navbar
 
 		// Easing
 		easing: 'easeInOutCubic',
