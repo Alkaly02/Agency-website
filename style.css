@@ -3,13 +3,17 @@
 	padding: 0;
 	font-family: sans-serif;
 }
-.navbar{
+/*.navbar{
 	position: relative;
-}
+}*/
+/*.navbar-nav li > a{
+	color: #fff !important;
+	font-weight: 600;
+}*/
 #logo{
 	width: 120px;
 }
-.navbar ul{
+/*.navbar ul{
 	display: flex;
 	position: absolute;
 	right: 0;
@@ -25,7 +29,7 @@
 	color: white;
 	font-weight: 600;
 	font-size: 1.1em;
-}
+}*/
 .navbar ul li > a:hover{
 	background-color: rgba(255, 255, 255, 0.1);
 	border-radius: 5px;
@@ -188,7 +192,7 @@ a > i{
 
 
 
-@media(max-width: 990px){
+/*@media(max-width: 990px){
 	.navbar ul{
 		flex-direction: column;
 		position: relative;
@@ -197,7 +201,7 @@ a > i{
 		text-align: center;
 	}
 
-}
+}*/
 @media(max-width: 768px){
 	#about-us .about-title{
 		text-align: center;
