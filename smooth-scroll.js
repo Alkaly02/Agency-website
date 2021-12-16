@@ -22,7 +22,7 @@
 		durationMax: null,
 		durationMin: null,
 		clip: true,
-		offset: 70,
+		offset: 300,
 
 		// Easing
 		easing: 'easeInOutCubic',
